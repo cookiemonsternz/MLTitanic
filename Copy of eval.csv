@@ -4,3 +4,4 @@ survived,sex,age,n_siblings_spouses,parch,fare,class,deck,embark_town,alone
 0,male,13,2,0,63,First,C,Queenstown,y
 0,male,12,1,2,20,Third,E,Queenstown,y
 0,female,10,2,4,400.423123,First,unknown,Queenstown,y
+0,female,48,1,4,350,First,B,Queenstown,y
